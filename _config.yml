@@ -1,6 +1,6 @@
 title: Open RBQM Centralized Monitoring Job Aid
 description: Guidance for Central Monitors performing review of GSM centralized monitoring output
-remote_theme: just-the-docs/just-the-docs@v0.10.0
+theme: just-the-docs
 
 url: "https://gilead-biostats.github.io"
 baseurl: "/gsm.guide"
@@ -43,9 +43,6 @@ callouts:
   example:
     title: Example
     color: purple
-
-plugins:
-  - jekyll-remote-theme
 
 exclude:
   - "*.docx"
