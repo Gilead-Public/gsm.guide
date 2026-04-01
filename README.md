@@ -5,6 +5,7 @@ This repository contains a Jekyll-based job aid for centralized monitoring guida
 ## Local Preview
 
 1. Install dependencies:
+   - Use Ruby 3.3 (or another Ruby 3.x release compatible with the Gemfile)
    - `bundle install`
 2. Start the site locally:
    - `bundle exec jekyll serve`
