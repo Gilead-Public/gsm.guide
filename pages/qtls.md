@@ -8,7 +8,7 @@ nav_order: 6
 
 As noted in the [Analysis Types overview]({% link pages/analysis-types.md %}#qtls), QTLs are study level parameters used to monitor for systematic issues that could ultimately impact the reliability of final study analysis or participant safety.
 
-[{gsm}](https://github.com/Gilead-BioStats/gsm) currently has 2 QTL parameters:
+[{gsm}](https://github.com/Gilead-BioStats/gsm.core) currently has 2 QTL parameters:
 
 | Parameter | Description |
 |:----------|:------------|

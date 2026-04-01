@@ -4,16 +4,16 @@ layout: default
 nav_order: 1
 ---
 
-# Open RBQM Centralized Monitoring Job Aid
+# {gsm} Guide
 
-The purpose of this document is to provide guidance to Central Monitors performing review of [**{gsm}**](https://github.com/Gilead-BioStats/gsm) centralized monitoring output.
+The purpose of this document is to provide guidance to Central Monitors performing review of [**{gsm}**](https://github.com/Gilead-BioStats/gsm.core) centralized monitoring output.
 {: .fs-6 .fw-300 }
 
 ---
 
 ## Central Monitoring Scope
 
-Central monitoring is a remote evaluation of accumulating data, performed in a timely manner, supported by appropriately qualified and trained persons (e.g., data managers, biostatisticians, central monitors). Central Monitoring is enabled by [{gsm}](https://github.com/Gilead-BioStats/gsm) which surfaces Key Risk Indicators (KRIs), Central Statistical Monitoring (CSM), and Quality Tolerance Limits (QTLs). These methods are used to identify and analyze signals of data quality and participant safety risk during study conduct with the intent of raising relevant signals to appropriate functional team members for additional investigation and action. GSM is highly customizable, so study-specific analyses, adjustments, or thresholds may be integrated as part of the mitigation strategy, and as documented in the CMP.
+Central monitoring is a remote evaluation of accumulating data, performed in a timely manner, supported by appropriately qualified and trained persons (e.g., data managers, biostatisticians, central monitors). Central Monitoring is enabled by [{gsm}](https://github.com/Gilead-BioStats/gsm.core) which surfaces Key Risk Indicators (KRIs), Central Statistical Monitoring (CSM), and Quality Tolerance Limits (QTLs). These methods are used to identify and analyze signals of data quality and participant safety risk during study conduct with the intent of raising relevant signals to appropriate functional team members for additional investigation and action. GSM is highly customizable, so study-specific analyses, adjustments, or thresholds may be integrated as part of the mitigation strategy, and as documented in the CMP.
 
 Typically, the KRIs, CSM, and QTLs that are applicable for a study are referenced in the RACT (as part of risk mitigation strategies) and are detailed in a study-specific Central Monitoring Plan (CMP), as discussed and agreed upon by the study team during the Risk Assessment and RACT development.
 

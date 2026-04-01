@@ -17,7 +17,7 @@ When the threshold of interest set for a KRI is crossed, this may (or may not) i
 
 ### {gsm} KRI Library
 
-The following table details each of the standard KRIs in the [{gsm}](https://github.com/Gilead-BioStats/gsm) library.
+The following table details each of the standard KRIs in the [{gsm}](https://github.com/Gilead-BioStats/gsm.core) library.
 
 | KRI | KRI Name | Numerator | Denominator | Population |
 |:----|:---------|:----------|:------------|:-----------|
@@ -80,7 +80,7 @@ Unlike KRIs and CSM, QTLs (or acceptable ranges) are focused on study level risk
 
 When a QTL parameter exceeds the tolerance limit (i.e., threshold) set, the QTL *deviation* triggers cross-functional investigation into the root cause. Based on the outcome of that root cause investigation, mitigating actions may be implemented. The ultimate goal would be to bring the QTL parameter value back below the tolerance limit before study end, if possible.
 
-The following QTL parameters are available in [{gsm}](https://github.com/Gilead-BioStats/gsm), to be applied when applicable. In future, additional parameters may be developed.
+The following QTL parameters are available in [{gsm}](https://github.com/Gilead-BioStats/gsm.core), to be applied when applicable. In future, additional parameters may be developed.
 
 | Parameter | Description |
 |:----------|:------------|
@@ -91,7 +91,7 @@ The following QTL parameters are available in [{gsm}](https://github.com/Gilead-
 
 ## KRI Visualizations
 
-There are a variety of visualizations that support the identification of participants, sites, and countries of interest. These visualizations are surfaced in [{gsm}](https://github.com/Gilead-BioStats/gsm) visualizations and are included in KRI reports. For example:
+There are a variety of visualizations that support the identification of participants, sites, and countries of interest. These visualizations are surfaced in [{gsm}](https://github.com/Gilead-BioStats/gsm.core) visualizations and are included in KRI reports. For example:
 
 **Scatter Plots**
 

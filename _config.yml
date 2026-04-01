@@ -1,4 +1,4 @@
-title: Open RBQM Centralized Monitoring Job Aid
+title: {gsm} Guide
 description: Guidance for Central Monitors performing review of GSM centralized monitoring output
 theme: just-the-docs
 
@@ -11,7 +11,7 @@ gh_edit_link: false
 # Aux links (top right)
 aux_links:
   "GSM on GitHub":
-    - "https://github.com/Gilead-BioStats/gsm"
+    - "https://github.com/Gilead-BioStats/gsm.core"
 
 aux_links_new_tab: true
 
