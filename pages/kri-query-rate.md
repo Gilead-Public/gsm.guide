@@ -16,7 +16,7 @@ nav_order: 8
 1. In the KRI Report by Country, review the Query Rate KRI scatter plot for countries in red.
 
    {: .example }
-   > Here the US is an outlier with 9% query rate. However, when reviewing the sites contributing to this trend, there is only 1 US site that is an outlier in query reporting. Thus, this appears to be a country trend but is truly a site trend.
+   > Here the country shown is an outlier with 9% query rate. However, when reviewing the sites contributing to this trend, there is only 1 site that is an outlier in query reporting. Thus, this appears to be a country trend but is truly a site trend.
 
    ![Query rate country scatter plot]({{ site.baseurl }}/assets/images/image28.png) ![Query rate site drill-down]({{ site.baseurl }}/assets/images/image29.png)
 

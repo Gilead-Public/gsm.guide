@@ -44,7 +44,7 @@ These thresholds are set using statistical methods (which vary by analysis). The
 
 ![Normal distribution diagram showing KRI thresholds]({{ site.baseurl }}/assets/images/image1.png)
 
-![KRI flag icons]({{ site.baseurl }}/assets/images/image2.png) KRIs use green, amber, and red flags to indicate if the value of the KRI is low, moderate, or high risk.
+KRIs use green, amber, and red flags to indicate if the value of the KRI is low, moderate, or high risk.
 
 ![KRI threshold table]({{ site.baseurl }}/assets/images/image5.png)
 
@@ -73,7 +73,7 @@ Currently CSM analyses are under development. The following are examples of pote
 
 ## QTLs
 
-Unlike KRIs and CSM, QTLs (or acceptable ranges) are focused on study level risk. Specifically, QTLs are intended to monitor for systematic risks that could ultimately impact participants' safety or the reliability of study results. The limits, or thresholds, are expected to be set based on historic knowledge (i.e. prior similar studies, literature/publications, etc.), should be pre-determined (i.e., prior to first patient first visit) and generally should not be adjusted throughout study without strong justification. A major difference between QTLs and KRIs/CSM is the results of QTL monitoring are submitted for possible inclusion in the final Clinical Study Report (CSR) to show evidence of risk monitoring.
+Unlike KRIs and CSM, QTLs (or acceptable ranges) are focused on study level risk. Specifically, QTLs are intended to monitor for systematic risks that could ultimately impact participants' safety or the reliability of study results. The limits, or thresholds, are expected to be set by a cross-functional group including both statistical and clinical experts. Thresholds are based on historic knowledge (i.e. prior similar studies, literature/publications, etc.), should be pre-determined (i.e., prior to first patient first visit) and generally should not be adjusted throughout study without strong justification. A major difference between QTLs and KRIs/CSM is the results of QTL monitoring are submitted for possible inclusion in the final Clinical Study Report (CSR) to show evidence of risk monitoring.
 
 {: .example }
 > A QTL parameter may be the "proportion of randomized subjects that prematurely discontinue study drug." This is obviously critical in that if too many subjects do not have adequate exposure to study drug, the reliability of their endpoint data may come into question.

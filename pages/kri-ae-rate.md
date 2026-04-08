@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Steps to Perform the Review
 
-1. **Review the AE Reporting Rate scatter plot for outlier countries.** For example, here Turkey is an outlier with an unexpectedly high AE rate. The plot provides a visual to assess how extreme the outlier is (i.e., the higher above or below the red line the country is, the more extreme the rate and higher the likelihood is of the signal representing an underlying issue).
+1. **Review the AE Reporting Rate scatter plot for outlier countries.** For example, here the highlighted country is an outlier with an unexpectedly high AE rate. The plot provides a visual to assess how extreme the outlier is (i.e., the higher above or below the red line the country is, the more extreme the rate and higher the likelihood is of the signal representing an underlying issue).
 
    ![AE rate country scatter plot]({{ site.baseurl }}/assets/images/image18.png)
 

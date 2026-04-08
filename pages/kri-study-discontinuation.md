@@ -18,7 +18,7 @@ nav_order: 6
    Before confirming action is required at the country level, assess how many subjects are contributing to the trend.
 
    {: .example }
-   > Country ES (Spain) shown here, in the initial CM review was flagged red, but this was based only on 1 subject out of 12 which does not warrant escalation (1 subject is not a trend). Over time the number of prematurely discontinued subjects remained at 1 while the number of enrolled subjects grew, thus dropping the rate below the threshold. While we should evaluate every red signal, this illustrates the importance of considering the numerator and denominator values.
+   > The country shown here, in the initial CM review was flagged red, but this was based only on 1 subject out of 12 which does not warrant escalation (1 subject is not a trend). Over time the number of prematurely discontinued subjects remained at 1 while the number of enrolled subjects grew, thus dropping the rate below the threshold. While we should evaluate every red signal, this illustrates the importance of considering the numerator and denominator values.
 
    ![Study discontinuation country scatter plot]({{ site.baseurl }}/assets/images/image22.png)
 

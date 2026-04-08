@@ -16,7 +16,7 @@ nav_order: 7
 1. In the KRI Report by Country, review the Subject Study Discontinuation Rate scatter plot for outlier countries in red.
 
    {: .example }
-   > Here country IL (Israel) has been flagged with a high treatment discontinuation rate; however, in this case, although the rate is 20% of subjects having discontinued treatment prematurely, it is only due to 1 out of 5 subjects which is not a trend. In this case, no escalation would be warranted.
+   > Here the country has been flagged with a high treatment discontinuation rate; however, in this case, although the rate is 20% of subjects having discontinued treatment prematurely, it is only due to 1 out of 5 subjects which is not a trend. In this case, no escalation would be warranted.
 
    ![Treatment discontinuation country scatter plot]({{ site.baseurl }}/assets/images/image25.png)
 
